@@ -78,5 +78,14 @@ Attached above is the result for the 2017 and 2018 stock analysis with the time 
 ##Summary
 ### Advantage vs Disadvantages of refactoring a code
 The main advtange is the time efficiency that the refactored code is providing. The macro analysis was run about approximately .5 seconds less. When dealing with a large data set, time is crucial and more so being efficient with the time given to run the analysis is important. It also helped to eliminate redundancies in comparison to the original code. It is essentially aiming to achieve a better code and more effective one. Some of the disadvantage can relate to user error, when the refactored code introduces additional bugs that wasn't present prior. A refactored code might also be difficult for the user to understand, while we know the original code clearly, the process of refactoring a code might lead to more confusion.
+### Orginal Code Time
+![Screenshot 2022-07-14 093929](https://user-images.githubusercontent.com/108282027/179009083-db0f67cf-569c-41f7-8a3a-9c1ef1fb390a.png)
+![Screenshot 2022-07-14 093953](https://user-images.githubusercontent.com/108282027/179009151-286d1ac5-3479-47ae-8c39-075df3259224.png)
 ### Advatnage seen in Stock Analysis
 The decreased time to run the macro was the biggest advantage. When the original code was run it was closer to 1 second, and by refactoring it decreased the time for more than 50%. Also, there was no too much hands on work required to change the code from the original code, and it was still able to be more effective and time efficient.
+### Refactored Code Time
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/108282027/179009276-e3a37681-6fb1-42ed-aa93-867635be7815.png)
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/108282027/179009283-788e1257-2e45-4857-b3d3-a1dc2ed1da76.png)
+
+
+
